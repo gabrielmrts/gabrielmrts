@@ -3,7 +3,7 @@
 <h2>Hello World ☕</h2>
 
 <p>Just a programmer passionate about what he does.</p>
-<p>Open for remote english opportunities</p>
+<p>Open for remote english jobs.</p>
 
 <h3>How to find me?</h3> 
 
