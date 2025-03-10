@@ -2,10 +2,9 @@
 
 <h2>Hello World ☕</h2>
 
-<p>Just a programmer passionate about what he does.</p>
-<p>Open for remote english and portuguese jobs.</p>
+<p>Apenas um programador apaixonado pelo que faz.</p> 
 
-<h3>How to find me?</h3> 
+<h3>Como me encontrar:</h3> 
 
 <div align="left">
   <a href="https://leetcode.com/gabrielmrts/" alt="LeetCode">
