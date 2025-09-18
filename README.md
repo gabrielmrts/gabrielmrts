@@ -1,23 +1,20 @@
-<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo">
+# Senior Software Engineer
 
-<h2>Hello World ☕</h2>
+Backend development with focus on distributed systems, performance optimization, and infrastructure. 
 
-<p>Apenas um programador apaixonado pelo que faz.</p> 
+## Tech Stack
 
-<h3>Como me encontrar:</h3> 
+**Languages:** Python, JavaScript, Go
+**Databases:** PostgreSQL, Redis, MongoDB, ClickHouse
+**Infrastructure:** Docker, Kubernetes, AWS, Linux
+**Tools:** Git, CI/CD, Monitoring, Profiling
 
-<div align="left">
-  <a href="https://leetcode.com/gabrielmrts/" alt="LeetCode">
-    <img src="https://img.shields.io/badge/-Leetcode-ff3a5e?style=for-the-badge&logo=leetcode&logoColor=FFF"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/sudogabriel" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
-  </a>
-  
-  <a href="mailto:gabrielmrts@yahoo.com" alt="Contato">
-    <img src="https://img.shields.io/badge/-Yahoo%20Mail-ff3a5e?style=for-the-badge&logo=yahoo&logoColor=FFF"/>
-  </a>
-</div>
+## Current Focus
 
-<h5>“Make it work, make it right, make it fast.” – <b>Kent Beck</b></h5> 
+- System architecture and scalability
+- Performance critical applications  
+- Open source contributions
+
+---
+
+*Building reliable software that scales.*
