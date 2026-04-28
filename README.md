@@ -1,23 +1,7 @@
-# Senior Software Engineer
+senior swe
 
-Backend development with focus on distributed systems, performance optimization, and infrastructure. 
+distributed systems · performance · infrastructure  
 
-## Tech Stack
+architecture · scalability · performance-critical systems  
 
-**Languages:** Python, JavaScript, Go
-
-**Databases:** PostgreSQL, Redis, MongoDB, ClickHouse
-
-**Infrastructure:** Docker, Kubernetes, AWS, Linux
-
-**Tools:** Git, CI/CD, Monitoring, Profiling
-
-## Current Focus
-
-- System architecture and scalability
-- Performance critical applications  
-- Open source contributions
-
----
-
-*Building reliable software that scales.*
+reliable · fast · scalable
